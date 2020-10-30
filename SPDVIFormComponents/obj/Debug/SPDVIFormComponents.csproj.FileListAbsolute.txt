@@ -1,0 +1,10 @@
+C:\Users\Xavier\source\repos\SPDVIFormComponents\SPDVIFormComponents\bin\Debug\SPDVIFormComponents.exe.config
+C:\Users\Xavier\source\repos\SPDVIFormComponents\SPDVIFormComponents\bin\Debug\SPDVIFormComponents.exe
+C:\Users\Xavier\source\repos\SPDVIFormComponents\SPDVIFormComponents\bin\Debug\SPDVIFormComponents.pdb
+C:\Users\Xavier\source\repos\SPDVIFormComponents\SPDVIFormComponents\obj\Debug\SPDVIFormComponents.csprojAssemblyReference.cache
+C:\Users\Xavier\source\repos\SPDVIFormComponents\SPDVIFormComponents\obj\Debug\SPDVIFormComponents.mainForm.resources
+C:\Users\Xavier\source\repos\SPDVIFormComponents\SPDVIFormComponents\obj\Debug\SPDVIFormComponents.Properties.Resources.resources
+C:\Users\Xavier\source\repos\SPDVIFormComponents\SPDVIFormComponents\obj\Debug\SPDVIFormComponents.csproj.GenerateResource.cache
+C:\Users\Xavier\source\repos\SPDVIFormComponents\SPDVIFormComponents\obj\Debug\SPDVIFormComponents.csproj.CoreCompileInputs.cache
+C:\Users\Xavier\source\repos\SPDVIFormComponents\SPDVIFormComponents\obj\Debug\SPDVIFormComponents.exe
+C:\Users\Xavier\source\repos\SPDVIFormComponents\SPDVIFormComponents\obj\Debug\SPDVIFormComponents.pdb
